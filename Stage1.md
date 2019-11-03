@@ -16,7 +16,7 @@ weight: 2
 ### 摘要
 本阶段主要是为实训项目做基本的技术准备，学会使用**Vi**, **JAVA**, **Ant** 和 **Junit**, 以及熟悉GridWorld的使用，并完成指定的任务。
 
-时间：**2018.04.08~2018.04.15**
+时间：**2019.11.09~2018.11.10**
 
 
 ### 制品
@@ -33,9 +33,9 @@ weight: 2
 
 | 制品 | 提交命名 | 备注 | 提交时间 |
 | :----: | :----: | :----: | :----: |
-| [Vi,Java,Ant,Junit的自学报告](./Task--Report-Study) | ~~`studyreport.md`~~ | [Markdown](https://en.wikipedia.org/wiki/Markdown)格式 | **04月15日23:30之前** |
-| [任务2,3,4,5,6的代码](./Task--Code-Study) | `calculator.zip` | 必须包含HelloWorld代码，Junit测试代码，`build.xml`，`sonar-project.properties`，[Java小程序](./Stage1--Calculator)代码，[README](https://en.wikipedia.org/wiki/README) | **04月15日23:30之前** |
-| [Part1](./Stage1--Part1)的问题和练习 | / | 建议用英文书写，**可用中文** | **04月15日23:30之前** |
+| [Vi,Java,Ant,Junit的自学报告](./Task--Report-Study) | `studyreport.md` | [Markdown](https://en.wikipedia.org/wiki/Markdown)格式 | **11月10日23:30之前** |
+| [任务2,3,4,5,6的代码](./Task--Code-Study) | `calculator.zip` | 必须包含HelloWorld代码，Junit测试代码，`build.xml`，`sonar-project.properties`，[Java小程序](./Stage1--Calculator)代码，[README](https://en.wikipedia.org/wiki/README) | **11月10日23:30之前** |
+| [Part1](./Stage1--Part1)的问题和练习 | / | 建议用英文书写，**可用中文** | **11月10日23:30之前** |
 
 
 ----------

@@ -18,7 +18,7 @@ weight: 3
 
 可使用eclipse开发，附参考教程：[eclipse使用](./resources/eclipse-tutorial-v1.pdf)。
 
-时间：**2019.11.16~2018.11.24**
+时间：**2019.11.16~2019.11.24**
 
 
 ### 制品
