@@ -36,7 +36,7 @@ weight: 4
 | [ImageProcessing代码](./Task--Code-ImageProcessing) | `ImageReader.zip` | 必须包含**ImplementImageIO.java**, **ImplementImageProcessor.java**, **ImageProcessorTest.java**，和[README](https://en.wikipedia.org/wiki/README)一起打包 | **12月01日23:30之前** |
 | [MazeBug代码](./Task--Code-MazeBug) | `Mazebug.zip` | 必须包含 **MazeBug.java**，和[README](https://en.wikipedia.org/wiki/README)一起打包 | **12月01日23:30之前** |
 | [N-Puzzle代码](./Task--Code-NPuzzle) | `Jigsaw.zip` | 只包含 **Solution.java** | **12月01日23:30之前** |
-| [实训总结报告](./Task--Report-Summary) | ~~`summaryreport.md`~~ | [Markdown](https://en.wikipedia.org/wiki/Markdown)格式，字数和内容不限，视态度打分并纳入最终总评 | **12月01日23:30之前** |
+| [实训总结报告](./Task--Report-Summary) | `summaryreport.md` | [Markdown](https://en.wikipedia.org/wiki/Markdown)格式，字数和内容不限，视态度打分并纳入最终总评 | **12月10日23:30之前** |
 
 
 ----------
