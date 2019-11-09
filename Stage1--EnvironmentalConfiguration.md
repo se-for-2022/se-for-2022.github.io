@@ -71,4 +71,6 @@ weight: 3
 
     `gridworld.jar`是预先打包构建好的，为本次实训提供教学框架的代码包(jar)，在各个阶段开发中，需要将其引入到我们的编译之中。
 
+ 5. [Configure ant](./Stage1--Configure.md)
+
 
