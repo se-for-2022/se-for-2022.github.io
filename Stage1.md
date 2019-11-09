@@ -57,6 +57,7 @@ weight: 2
  8. 完成[GridWorld](./resources/gridworld.zip)的[环境配置](./Stage1--EnvironmentalConfiguration)，学习`gridworld.jar`的引用，编译运行`BugRunner`
  9. 登录[Matrix](https://vmatrix.org.cn)完成[Part1](./Stage1--Part1)的问题和练习
  10. 完成检查，具体见下节"检查"
+ 11. [GridWorldCode](./GridWorldCode.zip)
 
 ### 检查
 请在**11月11日23:30之前**完成检查。检查具体时间、地点及流程见[概述](./Home)页中提要第六点"作业检查"。
