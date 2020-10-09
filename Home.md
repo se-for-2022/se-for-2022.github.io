@@ -11,7 +11,7 @@ Welcome to the gridworld wiki!
 ----------
 
 ### 关于
-**[网站](https://se-2019.github.io/)的实训内容随时可能变更，具体更改见[Commit 历史](https://github.com/se-2019/se-2019.github.io/commits/master)。**
+**[网站](https://se-2020.github.io/)的实训内容随时可能变更，具体更改见[Commit 历史](https://github.com/se-2020/se-2020.github.io/commits/master)。**
 
  - 在至实训结束前，请对[Matrix](https://vmatrix.org.cn)的所有提交做好**本地备份**，以防数据丢失。
 
@@ -27,11 +27,11 @@ Welcome to the gridworld wiki!
         1. [阶段1：项目启动](./Stage1)（2019.11.09~2019.11.10）
         2. [阶段2：基本任务](./Stage2)（2019.11.16~17、23~24）
         3. [阶段3：扩展任务](./Stage3)（2019.11.30~2019.12.01）
-        4. [阶段4：补交于总结](./Task--Report-Summary)（2019.12.07～2019.12.08）
+        4. [阶段4：补交与总结](./Task--Report-Summary)（2019.12.07～2019.12.08）
     - 地点：实验楼e402、e403
     - 内容：[GridWorld 简介](./GridWorld)
  2. 答疑地点
-    1. [Github Issues](https://github.com/se-2019/se-2019.github.io/issues)
+    1. [Github Issues](https://github.com/se-2020/se-2020.github.io/issues)
     2. 实训群
     3. **实验楼e402**(仅在实验楼值班时间)
  3. 实验楼值班时间
