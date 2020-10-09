@@ -17,7 +17,7 @@ title: Gridworld
 email: sssysu@foxmail.com
 description: Gridworld wiki.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://se-2019.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://se-2020.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 copyright: ZS
 # Build settings
 markdown: kramdown
