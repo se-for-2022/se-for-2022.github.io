@@ -28,7 +28,7 @@ Welcome to the gridworld wiki!
          2. [阶段2：基本任务](./Stage2)（2021.10.24、2021.11.7）
          3. [阶段3：扩展任务](./Stage3)（2021.11.14、2021.11.21）
          4. [阶段4：补交与总结](./Task--Report-Summary)（2021.11.28）
-    - 地点：实验楼D503
+    - 地点：实验楼D502
     - 内容：[GridWorld 简介](./GridWorld)
  2. 答疑地点
     1. [Github Issues](https://github.com/se-for-2021/se-2021.github.io/issues)
