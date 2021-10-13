@@ -16,7 +16,7 @@ weight: 2
 ### 摘要
 本阶段主要是为实训项目做基本的技术准备，学会使用**Vi**, **JAVA**, **Ant** 和 **Junit**, 以及熟悉GridWorld的使用，并完成指定的任务。
 
-时间：**2020.10.10~2020.10.11**
+时间：**2021.10.17**
 
 
 ### 制品
@@ -34,8 +34,8 @@ weight: 2
 | 制品 | 提交命名 | 备注 | 提交时间 |
 | :----: | :----: | :----: | :----: |
 | [Vi,Java,Ant,Junit的自学报告](./Task--Report-Study) | `studyreport.md` | [Markdown](https://en.wikipedia.org/wiki/Markdown)格式 | **10月11日23:30之前** |
-| [任务2,3,4,5,6的代码](./Task--Code-Study) | `calculator.zip` | 必须包含HelloWorld代码，Junit测试代码，`build.xml`，`sonar-project.properties`，[Java小程序](./Stage1--Calculator)代码，[README](https://en.wikipedia.org/wiki/README) | **10月11日23:30之前** |
-| [Part1](./Stage1--Part1)的问题和练习 | / | 建议用英文书写，**可用中文** | **10月11日23:30之前** |
+| [任务2,3,4,5,6的代码](./Task--Code-Study) | `calculator.zip` | 必须包含HelloWorld代码，Junit测试代码，`build.xml`，`sonar-project.properties`，[Java小程序](./Stage1--Calculator)代码，[README](https://en.wikipedia.org/wiki/README) | **10月17日23:30之前** |
+| [Part1](./Stage1--Part1)的问题和练习 | / | 建议用英文书写，**可用中文** | **10月17日23:30之前** |
 
 
 ----------
@@ -53,9 +53,9 @@ weight: 2
  6. 学习并[配置SonarQube](./resources/sonarqube-tutorial-v1.pdf)，利用SonarQube测试自己昨天写的Java小程序
 
     注意：Sonar 和 Sonar-runner 可以不下载，已放在云平台的`/opt/resources`目录
- 7. 将代码打包，上传至[Matrix](https://vmatrix.org.cn)
+ 7. 将代码打包，上传至[Matrix](https://matrix.sysu.edu.cn/)
  8. 完成[GridWorld](./resources/gridworld.zip)的[环境配置](./Stage1--EnvironmentalConfiguration)，学习`gridworld.jar`的引用，编译运行`BugRunner`
- 9. 登录[Matrix](https://vmatrix.org.cn)完成[Part1](./Stage1--Part1)的问题和练习
+ 9. 登录[Matrix](https://matrix.sysu.edu.cn/)完成[Part1](./Stage1--Part1)的问题和练习
  10. 完成检查，具体见下节"检查"
  11. [GridWorldCode](./GridWorldCode.zip)
 
