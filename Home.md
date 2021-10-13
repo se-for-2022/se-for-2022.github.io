@@ -11,9 +11,9 @@ Welcome to the gridworld wiki!
 ----------
 
 ### 关于
-**[网站](https://se-2020.github.io/)的实训内容随时可能变更，具体更改见[Commit 历史](https://github.com/se-2020/se-2020.github.io/commits/master)。**
+**[网站](https://github.com/se-for-2021/se-2021.github.io/)的实训内容随时可能变更，具体更改见[Commit 历史](https://github.com/se-for-2021/se-2021.github.io/commits/master)。**
 
- - 在至实训结束前，请对[Matrix](https://vmatrix.org.cn)的所有提交做好**本地备份**，以防数据丢失。
+ - 在至实训结束前，请对[Matrix](https://matrix.sysu.edu.cn/)的所有提交做好**本地备份**，以防数据丢失。
 
 
 ----------
@@ -23,20 +23,20 @@ Welcome to the gridworld wiki!
 
  1. 组织
     - 人数：1人（每人独自行动）
-    - 时间：5周（2020.10.10~2020.11.15），分为4个阶段。
-        1. [阶段1：项目启动](./Stage1)（2020.10.10~2020.10.11）
-        2. [阶段2：基本任务](./Stage2)（2020.10.17~18、24~25）
-        3. [阶段3：扩展任务](./Stage3)（2020.10.24~25、2020.11.07~08）
-        4. [阶段4：补交与总结](./Task--Report-Summary)（2020.11.14～2020.11.15）
-    - 地点：实验楼D503
+    - 时间：6周（2021.10.17~2021.11.28），分为4个阶段。
+        1. [阶段1：项目启动](./Stage1)（2021.10.17）
+        2. [阶段2：基本任务](./Stage2)（2021.10.24、2021.11.7）
+        3. [阶段3：扩展任务](./Stage3)（2021.11.14、2021.11.21）
+        4. [阶段4：补交与总结](./Task--Report-Summary)（2021.11.28）
+    - 地点：实验楼D502
     - 内容：[GridWorld 简介](./GridWorld)
  2. 答疑地点
-    1. [Github Issues](https://github.com/se-2020/se-2020.github.io/issues)
+    1. [Github Issues](https://github.com/se-for-2021/se-2021.github.io/issues)
     2. 实训群
-    3. **实验楼D503**(仅在实验楼值班时间)
+    3. **实验楼D502**(仅在实验楼值班时间)
  3. 实验楼值班时间
     - 上午：09:00 ~ 12:00
-    - 下午：14:00 ~ 18:00
+    - 下午：14:00 ~ 17:00
  4. 实训平台
     - 开发平台：Linux(不要求必须是云桌面，只要求是Linux)
     - 检查平台：云桌面(Ubuntu 12.04.5 LTS)，使用vinzor软件登陆
@@ -48,20 +48,20 @@ Welcome to the gridworld wiki!
         - 账号:`学号`，初始密码:`学号` （以往已改过密码的请使用更改后的密码）
 
  5. 作业提交
-    - 地址：[Matrix](https://vmatrix.org.cn)
+    - 地址：[Matrix](https://matrix.sysu.edu.cn/)
     - 账号:`学号`，初始密码:`学号` （以往已改过密码的请使用更改后的密码）
 
  6. 作业检查
-    1. 在[Matrix](https://vmatrix.org.cn)上提交作业。
-    2. 由助教指定检查地点(无特别说明即**实验楼D503**)，同学们在规定时间(无特别说明即**实验楼值班时间**)内到指定地点让助教检查程序运行情况。
+    1. 在[Matrix](https://matrix.sysu.edu.cn/)上提交作业。
+    2. 由助教指定检查地点(无特别说明即**实验楼D502**)，同学们在规定时间(无特别说明即**实验楼值班时间**)内到指定地点让助教检查程序运行情况。
         - 检查平台是云桌面。
-        - 从[Matrix](https://vmatrix.org.cn)上下载代码到**新建的空白文件夹**。
+        - 从[Matrix](https://matrix.sysu.edu.cn/)上下载代码到**新建的空白文件夹**。
         - 让程序运行起来，随后应对TA检查，提问。
         - 从下载代码到程序运行起来，**耗时不能超过一分钟**。
 
  7. 补作业
-    - 补交：留意[Matrix](https://vmatrix.org.cn)上作业发布。
-    - 补检：在**实验楼值班时间**到**实验楼D503**联系助教检查。
+    - 补交：留意[Matrix](https://matrix.sysu.edu.cn/)上作业发布。
+    - 补检：在**实验楼值班时间**到**实验楼D502**联系助教检查。
     - 最终得分 = 原分数 * 0.75
 
  8. 请假
