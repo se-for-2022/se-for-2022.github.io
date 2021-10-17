@@ -43,13 +43,13 @@ weight: 2
 
 ### 任务
 
-**以下给出的[vi/vim](http://my.ss.sysu.edu.cn/wiki/pages/viewpage.action?pageId=7962701)、[JAVA](http://my.ss.sysu.edu.cn/wiki/pages/viewpage.action?pageId=21299305)、[Ant](http://my.ss.sysu.edu.cn/wiki/pages/viewpage.action?pageId=6521011)、[Junit](http://my.ss.sysu.edu.cn/wiki/pages/viewpage.action?pageId=21299308)学习链接仅供参考，可不看。**
+**以下给出的[vi/vim](https://www.runoob.com/linux/linux-vim.html)、[JAVA](https://www.w3schools.com/java/)、[Ant](https://www.tutorialspoint.com/ant/index.htm)、[Junit](https://www.tutorialspoint.com/junit/index.htm)学习链接仅供参考，可不看。**
 
- 1. 学习[vi/vim编辑器的使用](http://my.ss.sysu.edu.cn/wiki/pages/viewpage.action?pageId=7962701)
- 2. 熟悉JDK的环境并学习[JAVA语言](http://my.ss.sysu.edu.cn/wiki/pages/viewpage.action?pageId=21299305)，完成HelloWorld的编译运行
- 3. 熟悉[Ant的环境](http://my.ss.sysu.edu.cn/wiki/pages/viewpage.action?pageId=6521011)并学习Ant，利用Ant实现HelloWorld的自动编译
+ 1. 学习[vi/vim编辑器的使用](https://www.runoob.com/linux/linux-vim.html)
+ 2. 熟悉JDK的环境并学习[JAVA语言](https://www.w3schools.com/java/)，完成HelloWorld的编译运行
+ 3. 熟悉[Ant的环境](https://www.tutorialspoint.com/ant/index.htm)并学习Ant，利用Ant实现HelloWorld的自动编译
  4. 学习Java语言，并编写Java小程序，完成要求请参考[Java小程序完成要求](./Stage1--Calculator)
- 5. 学习[Junit](http://my.ss.sysu.edu.cn/wiki/pages/viewpage.action?pageId=21299308)，利用Ant、Junit测试通过HelloWorld
+ 5. 学习[Junit](https://www.tutorialspoint.com/junit/index.htm)，利用Ant、Junit测试通过HelloWorld
  6. 学习并[配置SonarQube](./resources/sonarqube-tutorial-v1.pdf)，利用SonarQube测试自己昨天写的Java小程序
 
     注意：Sonar 和 Sonar-runner 可以不下载，已放在云平台的`/opt/resources`目录
