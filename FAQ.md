@@ -15,9 +15,9 @@ weight: 5
 
 ### 注意事项
  1. 本次作业由每位同学独立完成，不允许抄袭。一旦被发现抄袭，后果自负。
- 2. 如果在完成过程中有什么问题，欢迎各位同学在实训群中讨论，或者直接在[Github Issues](https://github.com/se-for-2021/se-2021.github.io/issues)中提出。鼓励大佬们积极帮助同学，或者解答[Github Issues](https://github.com/se-for-2021/se-2021.github.io/issues)上的问题。
+ 2. 如果在完成过程中有什么问题，欢迎各位同学在实训群中讨论，或者直接在[Github Issues](https://github.com/se-for-2022/se-for-2022.github.io/issues)中提出。鼓励大佬们积极帮助同学，或者解答[Github Issues](https://github.com/se-for-2022/se-for-2022.github.io/issues)上的问题。
  3. 在实现过程中，鼓励大家写博客记录分享自己的经验和见解（答案除外）。优秀的博客可以私发给TA，我们审核后会将其放在网站上帮助其他同学，并会对该同学酌情加分。
- 4. 如果有什么突发的情况，或者对于题目正确性的疑问，可以私戳TA。但优先级顺序为：在[Github Issues](https://github.com/se-for-2021/se-2021.github.io/issues)上提问优于实训群，实训群提问优于私戳提问。(最大程度上给后面遇到同样问题的同学一些信息)
+ 4. 如果有什么突发的情况，或者对于题目正确性的疑问，可以私戳TA。但优先级顺序为：在[Github Issues](https://github.com/se-for-2022/se-for-2022.github.io/issues)上提问优于实训群，实训群提问优于私戳提问。(最大程度上给后面遇到同样问题的同学一些信息)
 
 
 ### 忘记云桌面密码

@@ -16,7 +16,7 @@ weight: 2
 ### 摘要
 本阶段主要是为实训项目做基本的技术准备，学会使用**Vi**, **JAVA**, **Ant** 和 **Junit**, 以及熟悉GridWorld的使用，并完成指定的任务。
 
-时间：**2021.10.17**
+时间：**2022.10.15**
 
 
 ### 制品
@@ -33,9 +33,9 @@ weight: 2
 
 | 制品 | 提交命名 | 备注 | 提交时间 |
 | :----: | :----: | :----: | :----: |
-| [Vi,Java,Ant,Junit的自学报告](./Task--Report-Study) | `studyreport.md` | [Markdown](https://en.wikipedia.org/wiki/Markdown)格式 | **10月17日23:30之前** |
-| [任务2,3,4,5,6的代码](./Task--Code-Study) | `calculator.zip` | 必须包含HelloWorld代码，Junit测试代码，`build.xml`，`sonar-project.properties`，[Java小程序](./Stage1--Calculator)代码，[README](https://en.wikipedia.org/wiki/README) | **10月17日23:30之前** |
-| [Part1](./Stage1--Part1)的问题和练习 | / | 建议用英文书写，**可用中文** | **10月17日23:30之前** |
+| [Vi,Java,Ant,Junit的自学报告](./Task--Report-Study) | `studyreport.md` | [Markdown](https://en.wikipedia.org/wiki/Markdown)格式 | **10月22日23:30之前** |
+| [任务2,3,4,5,6的代码](./Task--Code-Study) | `calculator.zip` | 必须包含HelloWorld代码，Junit测试代码，`build.xml`，`sonar-project.properties`，[Java小程序](./Stage1--Calculator)代码，[README](https://en.wikipedia.org/wiki/README) | **10月22日23:30之前** |
+| [Part1](./Stage1--Part1)的问题和练习 | / | 建议用英文书写，**可用中文** | **10月22日23:30之前** |
 
 
 ----------
@@ -60,7 +60,7 @@ weight: 2
  11. [GridWorldCode](./GridWorldCode.zip)
 
 ### 检查
-请在**10月24日之前**完成检查。检查具体时间、地点及流程见[概述](./Home)页中提要第六点"作业检查"。
+请在**10月22日之前**完成检查。检查具体时间、地点及流程见[概述](./Home)页中提要第六点"作业检查"。
  1. 检查ANT、Junit。主要是通过检查HelloWorld是否通过编译，部署和测试。（检查点：1.是否使用ANT；2.是否使用Junit）
  2. 检测SonarQube的使用情况。（SonarQube是否正常运行，Java小程序的分析结果）
  3. 检查BugRunner。（检查点：BugRunner是否能正确编译、运行）
