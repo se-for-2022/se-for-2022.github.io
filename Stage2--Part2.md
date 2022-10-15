@@ -48,7 +48,7 @@ public void act()
 ![Bug Class](./images/part2-bug.jpg)
 
 
-### **Answer the following questions on Matrix**
+### **Answer the following questions**
 
 **Set 2**
 The source code for the BoxBug class can be found in the boxBug directory.

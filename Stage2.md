@@ -44,7 +44,7 @@ weight: 3
 
  1. 开始 [Part2](./Stage2--Part2) ，完成所有问题和练习，以及CircleBug、SpiralBug、ZBug、DancingBug的代码编写。将编写的代码用Sonar进行分析，并对照分析结果对代码进行修改(Hint：使用Ant运行GridWorld程序时需要添加属性`fork="yes"`)
  2. 开始 [Part3](./Stage2--Part3) ，完成所有问题和练习
- 3. 登录[Matrix](https://matrix.sysu.edu.cn/)并提交:
+ 3. 登录[ftp](http://172.18.178.57:8080)并提交:
      - [Part2](./Stage2--Part2) 编写的Java代码
      - [Part3](./Stage2--Part3) 编写的Java代码
      - [Part3](./Stage2--Part3) 编写的两份文档
@@ -52,7 +52,7 @@ weight: 3
 
  4. 开始 [Part4](./Stage2--Part4) ，完成所有问题和练习，以及ModifiedChameleonCritter、ChameleonKid、RockHound、BlusterCritter、QuickCrab、KingCrab的代码编写
  5. 开始 [Part5](./Stage2--Part5) ，完成所有问题和练习
- 6. 登录[Matrix](https://matrix.sysu.edu.cn/)并提交:
+ 6. 登录[ftp](http://172.18.178.57:8080)并提交:
      - [Part4](./Stage2--Part4) 编写的代码
      - [Part5](./Stage2--Part5) 编写的代码
      - [Part4](./Stage2--Part4) 、 [Part5](./Stage2--Part5) 的问题和练习的答案

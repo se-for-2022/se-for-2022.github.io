@@ -43,7 +43,7 @@ The AbstractGrid class is a superclass of the BoundedGrid and UnboundedGrid clas
 ![Grid Design](./images/part5-grid-design.jpg)
 
 
-### **Answer the following questions on Matrix**
+### **Answer the following questions**
 
 **Set 10**
 
@@ -73,7 +73,7 @@ private Object[][] occupantArray;
 Note that occupantArray is declared to hold references of type Object rather than the generic type E. (In the Java language, it is impossible to declare arrays of generic types.) Nevertheless, all elements of occupantArray must belong to the type E. Only the put method adds elements to the array, and it requires elements of type E.
 
 
-### **Answer the following questions on Matrix**
+### **Answer the following questions**
 
 **Set 11**
 
@@ -101,7 +101,7 @@ In the next four questions, let r = number of rows, c = number of columns, and n
 
 The numRows and numCols methods both return -1 to indicate that an unbounded grid does not have any specific number of rows or columns. The isValid method always returns true. The get, put, and remove methods simply invoke the corresponding Map methods. The getOccupiedLocations method returns the same locations that are contained in the key set for the map.
 
-### **Answer the following questions on Matrix**
+### **Answer the following questions**
 
 **Set 12**
 

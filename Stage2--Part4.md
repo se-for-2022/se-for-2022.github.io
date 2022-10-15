@@ -34,7 +34,7 @@ These methods are implemented in the Critter class with simple default behavior-
 
 It is usually not a good idea to override the `act` method in a `Critter` subclass. The `Critter` class was designed to represent actors that process other actors and then move. If you find the `act` method unsuitable for your actors, you should consider extending Actor, not `Critter`.
 
-### **Answer the following questions on Matrix**
+### **Answer the following questions**
 
 **Set 7**
 
@@ -99,7 +99,7 @@ The following figure shows the relationships among Actor, Critter, andChameleonC
 ![Relationships Among Actor](./images/part4-actor-relationships.jpg)
 
 
-### **Answer the following questions on Matrix**
+### **Answer the following questions**
 
 **Set 8**
 The source code for the ChameleonCritter class is in the critters directory
@@ -122,7 +122,7 @@ A CrabCritter is a critter that eats whatever is found in the locations immediat
 ![CrabCritter](./images/part4-crabcritter.jpg)
 
 
-### **Answer the following questions on Matrix**
+### **Answer the following questions**
 
 **Set 9**
 

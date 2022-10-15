@@ -34,7 +34,7 @@ The grid uses directions as on a map: north is up on the screen, east is to the 
 
 One attribute of the bug is its direction (indicated by its antennae). Initially, the bug faces north.Make a bug, take several steps and observe its behavior. Then add more rocks and bugs by clicking on empty cells and selecting the actors of your choice. Answer the following questions based on your observations using the **Step** and **Run** buttons.
 
-### **Answer the following questions on Matrix**
+### **Answer the following questions**
 
 **Set 1**
 
@@ -66,7 +66,7 @@ Experiment with the different methods to see how they work. Accessor methods wil
 If you select one of the methods in the menu, it will be invoked for this actor. As an example, click on a bug to see the menu of methods. Now observe what happens when you select the `void setDirection(int)` method. The bug will change its direction to the angle that you supply. Try selecting some of the other methods. What about the act method? If you invoked that method, the actor will behave as if you had clicked on the **Step** button, but no other actors will do anything. A bug will move forward or turn to the right, a flower's color will darken, and a rock will do nothing. The **Step** button simply causes the act method to be invoked on all actors in the grid.
 
 
-### **Answer the following questions on Matrix**
+### **Answer the following questions**
 
 By clicking on a cell containing a bug, flower, or rock, do the following.
 

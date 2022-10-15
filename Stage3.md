@@ -43,9 +43,9 @@ weight: 4
 
 
 ### 任务
- 1. 开发[图像处理](./Stage3--ImageProcessing)部分内容，登录[Matrix](https://matrix.sysu.edu.cn)并提交
- 2. 开发[迷宫](./Stage3--MazeBug)部分内容，登录[Matrix](https://matrix.sysu.edu.cn)并提交
- 3. 开发[拼图](./Stage3--NPuzzle)部分内容，登录[Matrix](https://vmatrix.org.cn)并提交
+ 1. 开发[图像处理](./Stage3--ImageProcessing)部分内容，登录[ftp](http://172.18.178.57:8080)并提交
+ 2. 开发[迷宫](./Stage3--MazeBug)部分内容，登录[ftp](http://172.18.178.57:8080)并提交
+ 3. 开发[拼图](./Stage3--NPuzzle)部分内容，登录[ftp](http://172.18.178.57:8080)并提交
  4. 完成检查，具体见下节"检查"
 
 ### 检查

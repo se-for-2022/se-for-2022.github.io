@@ -106,7 +106,7 @@ The `Location` class defines the equals method so that `loc`.`equals`(other) ret
 The `Location` class implements the `Comparable` interface. The `compareTo` method compares two `Location` objects. The method call `loc.compareTo`(other) returns a negative integer if `loc` has a smaller row coordinate than `other`, or if they have the same row and `loc` has a smaller column coordinate than `other`. The call returns 0 if `loc` and `other` have the same row and column values. Otherwise, the call returns a positive integer.
 
 
-### **Answer the following questions on Matrix**
+### **Answer the following questions**
 
 **Set 3**
 
@@ -208,7 +208,7 @@ int getNumCols();
 
 For unbounded grids, these methods return -1.
 
-### **Answer the following questions on Matrix**
+### **Answer the following questions**
 
 **Set 4**
 
@@ -271,7 +271,7 @@ The Bug, Flower, and Rock classes provide examples of overriding the act method.
 The following questions help analyze the code for Actor.
 
 
-### **Answer the following questions on Matrix**
+### **Answer the following questions**
 
 **Set 5**
 
@@ -332,7 +332,7 @@ The code for these methods is explored in the following questions.
 ```
 
 
-### **Answer the following questions on Matrix**
+### **Answer the following questions**
 
 **Set 6**
 
