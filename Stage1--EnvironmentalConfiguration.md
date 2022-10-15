@@ -15,11 +15,8 @@ weight: 3
 
 
 ## 资源
-**云平台的资源放在 /opt/resources 目录下， 包括：**
 
- - **grid-world 项目驱动代码**
- - **需要的安装包**
-
+[grid-world项目驱动代码](./resources/gridworld.zip)
 
 ## 配置
 
