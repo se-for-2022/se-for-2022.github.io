@@ -5,7 +5,7 @@ menu: false
 ---
 
 
-Welcome to the gridworld wiki!
+Welcome to the gridworld wiki! ([source code](https://github.com/se-for-2022/se-for-2022.github.io))
 
 
 ----------
