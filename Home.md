@@ -35,16 +35,19 @@ Welcome to the gridworld wiki!
     2. 实训群
     3. **南实验楼D403**(仅在实验楼值班时间)
  3. 实验楼值班时间
+    
+    周六
+    
     - 上午：09:00 ~ 12:00
     - 下午：14:00 ~ 17:00
+
  4. 实训平台
     - 开发平台：Linux(不要求必须是云桌面，只要求是Linux)
     - 检查平台：云桌面(Ubuntu 20.04.1 LTS)，使用vinzor软件登陆
         - **云服务器ip地址：172.18.228.11**
         - **vinzor最新安装包**：[vinzor-client-windows_v3.4_20190430](http://sysu.vinzor.net/static/client/vinzor-client-windows_v3.4_20190430.zip)：请先卸掉最新版本再重装
-        - **云桌面只在周末(周六00:00~周日23:59)开放，数据不做保留**
-        - 预安装：见[FAQ](./FAQ)中"云桌面配置"
-        - 资源：`/opt/resources` 目录，具体见[FAQ](./FAQ)中"云桌面资源"
+        - **云桌面只在周末(周六、周日的8:00~21：00)开放，数据不做保留**
+        - 资源：环境资源（java、ant等）在云桌面的Desktop，代码资源（gridworld等）在[wiki仓库resources文件夹](https://github.com/se-for-2022/se-for-2022.github.io/tree/master/resources)
         - 账号:`学号`，初始密码:`学号` （以往已改过密码的请使用更改后的密码）
 
  5. 作业提交
