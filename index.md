@@ -27,7 +27,7 @@ Welcome to the gridworld wiki! ([source code](https://github.com/se-for-2022/se-
         1. [阶段1：项目启动](./Stage1)（2022.10.15）
         2. [阶段2：基本任务](./Stage2)（2022.10.22~2022.11.5）
         3. [阶段3：扩展任务](./Stage3)（2022.11.12~2022.11.19）
-        4. [阶段4：补交与总结](./Task--Report-Summary)（2022.11.26）
+        4. 阶段4：补交（2022.11.26）
     - 地点：南实验楼D403
     - 内容：[GridWorld 简介](./GridWorld)
  2. 答疑地点
