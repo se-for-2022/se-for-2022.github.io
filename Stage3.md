@@ -27,7 +27,7 @@ weight: 4
  - [MazeBug](./Stage3--MazeBug)
  - [N-Puzzle](./Stage3--NPuzzle)
 
-以及[实训总结报告](./Task--Report-Summary)。
+以及实训总结报告。
 
 ### 提交规范
 
